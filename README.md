@@ -55,7 +55,6 @@
 </br>
 
 <h2 align="left">🔥 Streak Stats</h2>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akikoiwamizu&theme=tokyonight_duo&hide_border=true" alt="akikoiwamizu" /></p>
 
 </br>
@@ -70,6 +69,6 @@
 
 <img align="left" alt="Akiko Iwamizu's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=akikoiwamizu&show_icons=true&include_all_commits=true&count_private=true&icon_color=F8D866&title_color=F8D866&text_color=00FFEBFF&bg_color=1F222E&locale=en" height="170px"/>
 
-<img align="right" alt="Akiko Iwamizu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akikoiwamizu&layout=compact&langs_count=8&theme=dark&hide_border=false&title_color=F85D7F&locale=en" height="170px"/>
+<img align="right" alt="Akiko Iwamizu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akikoiwamizu&layout=compact&langs_count=8&theme=dark&hide_border=false&title_color=F8D866&bg_color=1F222E&locale=en" height="170px"/>
 
 </br>
