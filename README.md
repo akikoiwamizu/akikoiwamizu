@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate data engineer working in the progressive data space.</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=00FFEB&center=true&vCenter=true&width=800&lines=Data+Engineering+%7C%C2%A0Machine+Learning+%7C+System+Architecture;Python+%7C+SQL+%7C+R+%7C+Java+%7C+C%2B%2B;Master+of+Information+%26+Data+Science+%40%C2%A0UC+Berkeley;Bachelors+in+Mathematical+Sciences+%40+Columbia+University;Learning+is+my+%231+hobby!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=F8D866&center=true&vCenter=true&width=800&lines=Data+Engineering+%7C%C2%A0Machine+Learning+%7C+System+Architecture;Python+%7C+SQL+%7C+R+%7C+Java+%7C+C%2B%2B;Master+of+Information+%26+Data+Science+%40%C2%A0UC+Berkeley;Bachelors+in+Mathematical+Sciences+%40+Columbia+University;Learning+is+my+%231+hobby!)](https://git.io/typing-svg)
 
 <hr>
 <p align="right"><img align="right" alt="Developer Animation" src="https://github.com/akikoiwamizu/akikoiwamizu/blob/master/developer-cropped.gif?raw=true" height="250" /></p>
