@@ -1,9 +1,11 @@
 <h1 align="center">Hi, I'm Akiko 👋🏻👩🏻‍💻</h1>
+
 <h3 align="center">A passionate data engineer working in the progressive data space.</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=00FFEB&center=true&vCenter=true&width=800&lines=Data+Engineering+%7C%C2%A0Machine+Learning+%7C+System+Architecture;Python+%7C+SQL+%7C+R+%7C+Java+%7C+C%2B%2B;Master+of+Information+%26+Data+Science+%40%C2%A0UC+Berkeley;Bachelors+in+Mathematical+Sciences+%40+Columbia+University;Learning+is+my+%231+hobby!)](https://git.io/typing-svg)
 
 <hr>
+<p align="right"><img align="right" alt="Developer Animation" src="https://github.com/akikoiwamizu/akikoiwamizu/blob/master/developer-cropped.gif?raw=true" height="250" /></p>
 
 - 🌱 I’m currently learning about **Machine Learning at Scale, JavaScript, and Web3**
 
@@ -11,17 +13,7 @@
 
 - 📫 How to reach me **akikoiwamizu@gmail.com**
 
-<hr>
-
-<h2 align="left">📥 Connect With Me</h2>
-<p align="left">
-<a href="https://linkedin.com/in/akikoiwamizu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akikoiwamizu" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aiwamizu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aiwamizu" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aiwamizu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aiwamizu" height="30" width="40" /></a>
-</p>
-
 </br>
-
 <h2 align="left">💻 Languages and Tools:</h2>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
@@ -55,7 +47,7 @@
 </br>
 
 <h2 align="left">🔥 Streak Stats</h2>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akikoiwamizu&theme=tokyonight_duo&hide_border=true" alt="akikoiwamizu" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akikoiwamizu&theme=tokyonight_duo&hide_border=true" alt="akikoiwamizu" /></p>
 
 </br>
 
