@@ -53,7 +53,7 @@
 
 <h2 align="left">⚡ Recent GitHub Activity</h2>
 
-[![Akiko Iwamizu's Recent GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=akikoiwamizu&bg_color=1F222E&color=F8D866&line=00FFEBFF&point=FFFFFF&hide_border=false)](https://github.com/akikoiwamizu/github-readme-activity-graph)
+[![Akiko Iwamizu's Recent GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=akikoiwamizu&bg_color=1F222E&color=F8D866&line=00FFEBFF&point=FFFFFF&hide_border=false)](https://github.com/akikoiwamizu/github-readme-activity-graph)
 
 </br>
 
