@@ -7,7 +7,7 @@
 <hr>
 <p align="right"><img align="right" alt="Developer Animation" src="https://github.com/akikoiwamizu/akikoiwamizu/blob/master/developer-cropped.gif?raw=true" height="230" /></p>
 
-- 🌱 I’m currently learning about **Machine Learning at Scale, JavaScript, and Web3**
+- 🌱 I’m currently learning about **Machine Learning at Scale, Modern Data Applications, and Golang**
 
 - 💬 Ask me about **my current projects for the Master of Information and Data Science degree**
 
