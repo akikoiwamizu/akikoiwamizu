@@ -5,14 +5,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=F8D866&center=true&vCenter=true&width=800&lines=Data+Engineering+%7C%C2%A0Machine+Learning+%7C+System+Architecture;Python+%7C+SQL+%7C+R+%7C+Java+%7C+C%2B%2B;Master+of+Information+%26+Data+Science+%40%C2%A0UC+Berkeley;Bachelors+in+Mathematical+Sciences+%40+Columbia+University;Learning+is+my+%231+hobby!)](https://git.io/typing-svg)
 
 <hr>
-<p align="right"><img align="right" alt="Developer Animation" src="https://github.com/akikoiwamizu/akikoiwamizu/blob/master/developer-cropped.gif?raw=true" height="230" /></p>
+<p align="right"><img align="right" alt="Developer Animation" src="https://github.com/akikoiwamizu/akikoiwamizu/blob/master/developer-cropped.gif?raw=true" height="200"/>
 
-- 🌱 I’m currently learning about **Machine Learning at Scale, Modern Data Applications, and Golang**
+- 🌱 I’m currently learning about **React, Kubernetes, and dbt**
 
-- 💬 Ask me about **my current projects for the Master of Information and Data Science degree**
+- 💬 Ask me about **my current projects at Voter Formation Project**
 
-- 📫 How to reach me **akikoiwamizu@gmail.com**
-
+- 📫 You can contact me at **akikoiwamizu@gmail.com**
+</p>
 </br>
 <h2 align="left">💻 Languages and Tools:</h2>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -47,12 +47,7 @@
 </br>
 
 <h2 align="left">🔥 Streak Stats</h2>
-[![Akiko Iwamizu's Recent GitHub Streak Stats]<p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=%40akikoiwamizu" alt="GitHub Streak" /></a></p>
-
-</br>
-
-<h2 align="left">⚡ Recent GitHub Activity</h2>
-[![Akiko Iwamizu's Recent GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=akikoiwamizu&bg_color=1F222E&color=F8D866&line=00FFEBFF&point=FFFFFF&hide_border=false)](https://github.com/akikoiwamizu/github-readme-activity-graph)
+<p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=%40akikoiwamizu" alt="GitHub Streak" /></a></p>
 
 </br>
 
