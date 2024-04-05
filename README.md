@@ -5,14 +5,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=F8D866&center=true&vCenter=true&width=800&lines=Data+Engineering+%7C%C2%A0Machine+Learning+%7C+System+Architecture;Python+%7C+SQL+%7C+R+%7C+Java+%7C+C%2B%2B;Master+of+Information+%26+Data+Science+%40%C2%A0UC+Berkeley;Bachelors+in+Mathematical+Sciences+%40+Columbia+University;Learning+is+my+%231+hobby!)](https://git.io/typing-svg)
 
 <hr>
-<p align="right"><img align="right" alt="Developer Animation" src="https://github.com/akikoiwamizu/akikoiwamizu/blob/master/developer-cropped.gif?raw=true" height="200" style="padding-bottom: 20px;"/>
+<p align="right"><img align="right" style="padding-bottom: 20px;" alt="Developer Animation" src="https://github.com/akikoiwamizu/akikoiwamizu/blob/master/developer-cropped.gif?raw=true" height="200" /></p>
 
 - 🌱 I’m currently learning about **React, Kubernetes, and dbt**
 
 - 💬 Ask me about **my current projects at Voter Formation Project**
 
 - 📫 You can contact me at **akikoiwamizu@gmail.com**
-</p>
+
+</br>
 </br>
 <h2 align="left">💻 Languages and Tools:</h2>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
