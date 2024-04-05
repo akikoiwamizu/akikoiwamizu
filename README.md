@@ -47,13 +47,12 @@
 </br>
 
 <h2 align="left">🔥 Streak Stats</h2>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akikoiwamizu&theme=tokyonight_duo&hide_border=true" alt="akikoiwamizu" /></p>
+[![Akiko Iwamizu's Recent GitHub Streak Stats]<p align="center"><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=%40akikoiwamizu" alt="GitHub Streak" /></a></p>
 
 </br>
 
 <h2 align="left">⚡ Recent GitHub Activity</h2>
-
-[![Akiko Iwamizu's Recent GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=akikoiwamizu&bg_color=1F222E&color=F8D866&line=00FFEBFF&point=FFFFFF&hide_border=false)](https://github.com/akikoiwamizu/github-readme-activity-graph)
+[![Akiko Iwamizu's Recent GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=akikoiwamizu&bg_color=1F222E&color=F8D866&line=00FFEBFF&point=FFFFFF&hide_border=false)](https://github.com/akikoiwamizu/github-readme-activity-graph)
 
 </br>
 
