@@ -29,7 +29,7 @@ I have experience leading technical projects, designing scalable solutions, and 
 
 ![Akiko's GitHub stats](https://github-readme-stats.vercel.app/api?username=akikoiwamizu&show_icons=true&theme=tokyonight)
 
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=akikoiwamizu&theme=tokyonight)
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com?user=akikoiwamizu&theme=tokyonight)]
 
 ## 📫 Connect With Me
 
