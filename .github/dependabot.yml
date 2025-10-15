@@ -1,8 +1,3 @@
-# Dependabot configuration
-# This file lives directly under .github/, at the same level as the PR template.
-# It schedules weekly dependency update PRs for GitHub Actions, pip, and npm.
-# You can delete any ecosystem block you don’t use.
-
 version: 2
 updates:
   - package-ecosystem: "github-actions"
