@@ -1,40 +1,26 @@
-# Hi there! 👋 I'm Akiko Iwamizu
+# Hi, I'm Akiko Iwamizu
 
-## 👩‍💻 About Me
+I am an Engineering Manager and Technical Director focused on data platforms, full-stack systems, and cloud infrastructure.
 
-I'm a **technology leader, engineering manager, and data-driven problem solver** with expertise in:
+I have led multi-disciplinary teams that build scalable pipelines and APIs using GCP, Cloud Run, and modern data modeling frameworks. My work centers on building systems that are reliable, observable, and maintainable.
 
-- **Web development**: Scalable applications using FastAPI, PostgreSQL, and React.
-- **Cloud computing & DevOps**: Google Cloud Platform, Cloud Run, Kubernetes, Docker, and CI/CD pipelines.
-- **Automation & data engineering**: Web scraping, ETL/ELT pipelines, and real-time analytics.
-- **Infrastructure & security**: Cloud architecture, API security, and system optimization.
+Most of my current projects are private under NDA, but below are representative public examples.
 
-I have experience leading technical projects, designing scalable solutions, and optimizing performance in cloud-based environments. My background spans software development, data science, and engineering automation. Want to learn more? [Download my resume here!](https://drive.google.com/file/d/1pvUNje-h3Z3Np0vUMOJMpY2Yi9fhkfcn/view?usp=sharing)
+| Project                                                                                | Description                                                                                         |
+| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| [housesjapan](https://github.com/akikoiwamizu/housesjapan)                             | Full-stack real estate web app with AI translations, API endpoints, and Cloud Run deployment        |
+| [cloud-run-job-template](https://github.com/akikoiwamizu/cloud-run-job-template)       | Production-ready job template demonstrating structured logging, retries, and secure secret handling |
+| [gcp-data-platform-starter](https://github.com/akikoiwamizu/gcp-data-platform-starter) | Opinionated dbt + BigQuery starter showing data modeling, testing, and metadata practices           |
+| [pokemon-sprint-generator](https://github.com/akikoiwamizu/pokemon-sprint-generator)   | Lightweight web app for generating creative sprint names using PokéAPI                              |
 
-## 🔧 Tech Stack
+## About Me
 
-- **Languages**: Python, SQL, JavaScript, Java, C++
-- **Backend**: FastAPI, PostgreSQL, Firebase Authentication, Redis
-- **Frontend**: React, Next.js, Tailwind CSS
-- **Cloud & DevOps**: Google Cloud Platform, Cloud Run, Docker, Kubernetes, Cloudflare CDN
+I have extensive experience leading distributed teams, designing cloud architectures, and mentoring engineers on building data-driven systems that scale. My focus areas include:
 
-## 🚀 What I’m Working On
+- Data modeling and pipeline design
+- Cloud infrastructure (GCP, Kubernetes, Cloud Run)
+- Observability and system reliability
+- dbt and metadata governance
+- Multilingual web applications
 
-- **Building scalable web apps** with cloud-native architecture.
-- **Optimizing data pipelines** and automation workflows.
-- **Enhancing API performance** and security best practices.
-- **Exploring AI applications** in real estate and data processing.
-
-## 📊 GitHub Stats
-
-![Akiko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akikoiwamizu&show_icons=true&theme=tokyonight)
-
-## 📫 Connect With Me
-
-- [**GitHub**](https://github.com/akikoiwamizu)
-- [**LinkedIn**](https://linkedin.com/in/akikoiwamizu/)
-- [**Email**](akikoiwamizu@gmail.com)
-
----
-
-💡 _Always learning, building, and optimizing!_
+**Let's Connect:** [LinkedIn](https://www.linkedin.com/in/akikoiwamizu) | akikoiwamizu@gmail.com
