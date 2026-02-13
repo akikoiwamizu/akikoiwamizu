@@ -11,7 +11,7 @@ Most of my current projects are private under NDA, but below are representative 
 | [housesjapan](https://github.com/akikoiwamizu/housesjapan)                             | Full-stack real estate web app with AI translations, API endpoints, and Cloud Run deployment        |
 | [cloud-run-job-template](https://github.com/akikoiwamizu/cloud-run-job-template)       | Production-ready job template demonstrating structured logging, retries, and secure secret handling |
 | [gcp-data-platform-starter](https://github.com/akikoiwamizu/gcp-data-platform-starter) | Opinionated dbt + BigQuery starter showing data modeling, testing, and metadata practices           |
-| [pokemon-sprint-generator](https://github.com/akikoiwamizu/pokemon-sprint-generator)   | Lightweight web app for generating creative sprint names using PokéAPI                              |
+| [sprint-name-generator](https://github.com/akikoiwamizu/sprint-name-generator)   | Lightweight web app for generating creative sprint names using PokéAPI                              |
 
 ## About Me
 
