@@ -1,26 +1,45 @@
 # Hi, I'm Akiko Iwamizu
 
-I am an Engineering Manager and Technical Director focused on data platforms, full-stack systems, and cloud infrastructure.
+I'm a technical and data platform leader focused on building systems that make complex data usable, reliable, and scalable.
 
-I have led multi-disciplinary teams that build scalable pipelines and APIs using GCP, Cloud Run, and modern data modeling frameworks. My work centers on building systems that are reliable, observable, and maintainable.
+My work spans analytics engineering, cloud infrastructure, data modeling, experimentation workflows, and AI-enabled engineering practices. I’ve led distributed teams, managed managers, owned multi-year technical roadmaps and budgets, and built platforms that support product, analytics, operations, and executive decision-making.
 
-Most of my current projects are private under NDA, but below are representative public examples.
+Most of my current work is private or under NDA, but this profile reflects the kinds of systems, patterns, and tools I care about: maintainable data platforms, reliable cloud infrastructure, thoughtful developer workflows, and practical AI adoption.
 
-| Project                                                                                | Description                                                                                         |
-| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| [housesjapan](https://github.com/akikoiwamizu/housesjapan)                             | Full-stack real estate web app with AI translations, API endpoints, and Cloud Run deployment        |
-| [cloud-run-job-template](https://github.com/akikoiwamizu/cloud-run-job-template)       | Production-ready job template demonstrating structured logging, retries, and secure secret handling |
-| [gcp-data-platform-starter](https://github.com/akikoiwamizu/gcp-data-platform-starter) | Opinionated dbt + BigQuery starter showing data modeling, testing, and metadata practices           |
-| [sprint-name-generator](https://github.com/akikoiwamizu/sprint-name-generator)   | Lightweight web app for generating creative sprint names using PokéAPI                              |
+## Current Focus
 
-## About Me
+- Data platforms that support self-service analytics and product decision-making
+- Analytics engineering standards, semantic modeling, data quality, and metadata
+- Cloud modernization using GCP, BigQuery, Kubernetes, Terraform, and CI/CD
+- AI and LLM adoption for engineering workflows, documentation, debugging, and planning
+- Experimentation systems, reproducible workflows, and stakeholder-facing reporting
+- Engineering leadership, team design, mentoring, and cross-functional delivery
 
-I have extensive experience leading distributed teams, designing cloud architectures, and mentoring engineers on building data-driven systems that scale. My focus areas include:
+## Technical Areas
 
-- Data modeling and pipeline design
-- Cloud infrastructure (GCP, Kubernetes, Cloud Run)
-- Observability and system reliability
-- dbt and metadata governance
-- Multilingual web applications
+**Data & Analytics Engineering**  
+BigQuery, dbt, SQL, Python, semantic modeling, metrics layers, metadata, lineage, data quality, experimentation workflows
 
-**Let's Connect:** [LinkedIn](https://www.linkedin.com/in/akikoiwamizu) | akikoiwamizu@gmail.com
+**Cloud & Infrastructure**  
+GCP, Kubernetes, Terraform, Docker, Cloud Run, Firebase, Pub/Sub, Cloudflare, CI/CD
+
+**Engineering Leadership**  
+Technical strategy, roadmap ownership, hiring, managing managers, delivery processes, incident response, stakeholder alignment
+
+**AI & Developer Workflows**  
+LLM-assisted development, prompt engineering, coding agents, secure AI adoption, AI-enabled documentation and debugging
+
+## Public Projects
+
+I’m currently refreshing my public portfolio. A few projects may be placeholders or works in progress while I clean up examples from previous work.
+
+Planned areas include:
+
+- Cloud Run job templates for production-style batch processing
+- BigQuery/dbt analytics engineering starter projects
+- AI-assisted developer workflow examples
+- Lightweight product demos and API integrations
+
+## Connect
+
+- [LinkedIn](https://www.linkedin.com/in/akikoiwamizu)
